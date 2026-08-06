@@ -1,1 +1,3 @@
-alert("Welcome to AI Hotel Booking!");
+document.querySelector("button").addEventListener("click", () => {
+    alert("Hotel search feature coming soon!");
+});
